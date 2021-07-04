@@ -13,12 +13,10 @@ This project supports the following:
 4. Custom Trade Strategies (eg. Backtesting) 
 5. Conditional Trade Execution (WIP)
 
-For real-time data collection and trading, you will need to collect API keys from Alpaca, a popular trading API. If so desired, you can choose to additionally add other supported services such as Alpha Vantage, IEX Cloud, and Polygon. Any keys will need to be placed inside a local env file.
+### How To Get Started
+Root file main.go contains the general structure and configuration for this project. 
 
-### Overview
-The main.go file contains a basic configuration for this project. 
-
-1. Custom Yahoo Finance screener url can be attached on line [line 16](https://github.com/cobyeastwood/BlueBot/blob/master/main.go#L16).
+1. Custom stock screener Yahoo Finance endpoint can be attached on line [line 16](https://github.com/cobyeastwood/BlueBot/blob/master/main.go#L16).
 
 	<br/>	
 
@@ -62,3 +60,11 @@ The main.go file contains a basic configuration for this project.
 
 	<br/> 
 	
+
+### Historical Support
+
+For historical data collection, you can choose from three different services such as Alpha Vantage, IEX Cloud, and Polygon. Any API keys will need to be placed inside a local env file.
+
+### Real-Time Support
+
+For real-time data collection, you will need to collect API keys from [Alpaca](https://alpaca.markets/docs/about-us/), an algorithmic stock trading for developers with margin availability and fractional shares. Any API keys will need to be placed inside a local env file.
