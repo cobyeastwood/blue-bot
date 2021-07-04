@@ -1,9 +1,11 @@
 # BlueBot
 
+### Quick Note
+BlueBot and all mentioned services are free to use, including supported financial APIs.
 
-### Description
+### Overview
 
-BlueBot is a self-healing stock bot that is still under construction. You can get started by building a custom stock screener from [Free Stock Screener - Yahoo Finance](https://finance.yahoo.com/screener/new) and setting it in the global scope. 
+BlueBot is a self-healing stock bot. You can get started by building a custom stock screener from [Free Stock Screener - Yahoo Finance](https://finance.yahoo.com/screener/new) and setting it in the global scope. 
 
 This project supports the following:
 
@@ -63,7 +65,7 @@ Root file main.go contains the general structure and configuration for this proj
 
 ### Historical Support
 
-For historical data collection, you can choose from three different services such as Alpha Vantage, IEX Cloud, and Polygon. Any API keys will need to be placed inside a local env file.
+For historical data collection, you can choose from three different services: [Alpha Vantage](https://www.alphavantage.co/), [IEX Cloud](https://iexcloud.io/?gclid=CjwKCAjwuIWHBhBDEiwACXQYsRZK32T9FfG4LsdaTr8IvUFY9LnJG-KAQkrjIzkSzMQ1O3u90Z-QhRoCzQ0QAvD_BwE), and [Polygon.io](https://polygon.io/stocks?gclid=CjwKCAjwuIWHBhBDEiwACXQYsWGZBgzKC7eFBdpJUEYbqBgjqXkfoYtUUkwsIsBjF_n_hfQyGeJisRoCEZMQAvD_BwE). Any API keys will need to be placed inside a local env file.
 
 ### Real-Time Support
 
