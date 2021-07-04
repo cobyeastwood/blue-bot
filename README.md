@@ -18,7 +18,7 @@ This project supports the following:
 ### How To Get Started
 Root file main.go contains the general structure and configuration for this project. 
 
-1. Yahoo Finance custom stock screener endpoint can be attached on line [line 16](https://github.com/cobyeastwood/BlueBot/blob/master/main.go#L16).
+1. Custom Yahoo Finance stock screener endpoint can be attached on line [line 16](https://github.com/cobyeastwood/BlueBot/blob/master/main.go#L16).
 
 	<br/>	
 
