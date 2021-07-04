@@ -10,7 +10,7 @@ For real-time trading, you will need to collect API keys from Alpaca and can cho
 ### Overview
 The main.go file contains a basic configuration for this project. 
 
-1. Custom Yahoo Finance screener url can be attached on line [line 16](https://github.com/cobyeastwood/BlueBot/blob/master/main.go#L16)
+1. Custom Yahoo Finance screener url can be attached on line [line 16](https://github.com/cobyeastwood/BlueBot/blob/master/main.go#L16).
 
 	<br/>	
 
