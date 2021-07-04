@@ -5,7 +5,7 @@
 
 BlueBot is a self-trading stock bot that is still under construction. You can get started by building a stock custom screener from Yahoo Finance and hooking it up into the global URL variable. 
 
-This project includes the following features:
+This project supports the following:
 
 1. Custom Stock Screening
 2. Historical & Realtime Data Collection
