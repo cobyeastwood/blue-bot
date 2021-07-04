@@ -3,7 +3,7 @@
 
 ### Description
 
-BlueBot is a self-healing stock bot that is still under construction. You can get started by building a stock custom screener from Yahoo Finance and hooking it up into the global URL variable. 
+BlueBot is a self-healing stock bot that is still under construction. You can get started by building a custom stock screener from [Free Stock Screener - Yahoo Finance](https://finance.yahoo.com/screener/new) and setting it in the global scope. 
 
 This project supports the following:
 
