@@ -8,12 +8,12 @@ BlueBot is a self-healing stock bot that is still under construction. You can ge
 This project supports the following:
 
 1. Custom Stock Screening
-2. Historical & Realtime Data Collection
+2. Historical & Real-Time Data Collection
 3. Technical Analysis (eg. Bollinger Bands, VWAP)
 4. Custom Trade Strategies (eg. Backtesting) 
 5. Conditional Trade Execution (WIP)
 
-For real-time trading, you will need to collect API keys from Alpaca and can choose to additionally add other supported services such as Alphavantage, Iexcloud, and Polygon. Any keys will need to be placed inside a local env file.
+For real-time data collection and trading, you will need to collect API keys from Alpaca, a popular trading API. If so desired, you can choose to additionally add other supported services such as Alpha Vantage, IEX Cloud, and Polygon. Any keys will need to be placed inside a local env file.
 
 ### Overview
 The main.go file contains a basic configuration for this project. 
