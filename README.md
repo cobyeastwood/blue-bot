@@ -29,7 +29,7 @@ The main.go file contains a basic configuration for this project.
 	
 	<br/>
 
-2. Trading strategies can be placed inside the following code block on [line 43](https://github.com/cobyeastwood/BlueBot/blob/master/main.go#L43).
+2. Trading strategies can be implemented as the following.
 	
 	<br/>
 	
@@ -47,7 +47,7 @@ The main.go file contains a basic configuration for this project.
 			Check(m1.Ticker, EMA)
 		}
 	
-	Later a custom strategy can be added.
+	Later a custom strategy can be added and placed inside the following code block on [line 48](https://github.com/cobyeastwood/BlueBot/blob/master/main.go#L48).
 	<br/>
 	
 		for {
