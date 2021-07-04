@@ -3,7 +3,7 @@
 
 ### Description
 
-BlueBot is a self-trading stock bot that is still under construction. You can get started by building a stock custom screener from Yahoo Finance and hooking it up into the global URL variable. 
+BlueBot is a self-healing stock bot that is still under construction. You can get started by building a stock custom screener from Yahoo Finance and hooking it up into the global URL variable. 
 
 This project supports the following:
 
@@ -47,7 +47,7 @@ The main.go file contains a basic configuration for this project.
 			Check(m1.Ticker, EMA)
 		}
 	
-	Later on a custom strategy can be added.
+	Later a custom strategy can be added.
 	<br/>
 	
 		for {
