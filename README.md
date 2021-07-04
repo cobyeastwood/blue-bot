@@ -3,7 +3,15 @@
 
 ### Description
 
-BlueBot is a self-trading stock bot that is still under construction.  You can get started by building a stock custom screener from Yahoo Finance and hooking it up into the global URL variable. 
+BlueBot is a self-trading stock bot that is still under construction. You can get started by building a stock custom screener from Yahoo Finance and hooking it up into the global URL variable. 
+
+This project includes the following features:
+
+1. Custom Stock Screening
+2. Historical & Realtime Data Collection
+3. Technical Analysis (eg. Bollinger Bands, VWAP)
+4. Custom Trade Strategies (eg. Backtesting) 
+5. Conditional Trade Execution (WIP)
 
 For real-time trading, you will need to collect API keys from Alpaca and can choose to additionally add other supported services such as Alphavantage, Iexcloud, and Polygon. Any keys will need to be placed inside a local env file.
 
