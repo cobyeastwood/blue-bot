@@ -5,7 +5,7 @@ BlueBot and all mentioned services are free to use, including supported financia
 
 ### Overview
 
-BlueBot is a self-healing stock bot. You can get started by building a custom stock screener from [Free Stock Screener - Yahoo Finance](https://finance.yahoo.com/screener/new) and setting it in the global scope. 
+BlueBot is a self-healing trading bot. You can get started by building a custom stock screener from [Free Stock Screener - Yahoo Finance](https://finance.yahoo.com/screener/new) and setting it in the global scope. 
 
 This project supports the following:
 
