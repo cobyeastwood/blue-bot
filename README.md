@@ -40,7 +40,7 @@ Root file main.go contains the general structure and configuration for this proj
 
 			m1 := Short(t, mc.c)
 
-			m2 := SiftFrom(m1)
+			m2 := Sift(m1)
 
 			m2 := Mechanics(FetchLong(m1.Ticker, NewFetchConfig(HOUR, "1", 365)), NewLongMechConfig())
 
